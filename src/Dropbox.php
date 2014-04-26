@@ -8,6 +8,10 @@ namespace HTCloudClass;
 class Dropbox {
     //put your code here
     function __construct() {
+        
+    }
+    
+    function imprimir() {
         echo "FNC DROPBOX CLASS";
     }
 }
