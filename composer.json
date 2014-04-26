@@ -17,6 +17,5 @@
         "files": [
             "src/Dropbox.php"
         ]
-    },
-    "minimum-stability": "dev"
+    }
 }
