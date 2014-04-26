@@ -13,6 +13,9 @@
     "autoload": {
         "psr-0": {
             "HTCloudClass": "src/"
-        }
+        },
+        "files": [
+            "src/Dropbox.php"
+        ]
     }
 }
