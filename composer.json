@@ -1,6 +1,10 @@
 {
     "name": "hynotech/cloud-class",
     "description": "Clases de Lectura en la nube.",
+    "keywords": ["php", "hyno", "simple"],
+    "homepage" : "http://www.HynoTech.com/",
+    "type": "library",
+    "license": "GPLv3",
     "authors": [
         {
             "name": "Antony Salas",
